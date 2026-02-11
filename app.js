@@ -1,3 +1,3 @@
 console.log("Olá mundo")
 const variavel = document.getElementById("root")
-variavel.innerHTML = "Meu primeiro código em Javascript. Já sou progomador"
+variavel.innerHTML = "Meu primeiro código em Javascript. Já sou progomador juniorzinho"
